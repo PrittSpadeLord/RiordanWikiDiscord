@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(239, 231, 210);
+    color: black;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    font-weight: normal;
+}
